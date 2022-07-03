@@ -1,6 +1,6 @@
 # Cards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+A small Angular project focused on learning component generation, adding external CSS (Bulma) and pushing data between parent and child components. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
 
